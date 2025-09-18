@@ -39,11 +39,6 @@
 
 ---
 
-## 🐍 Contribuições
-![Snake animation](https://github.com/AlexandreLopes02/AlexandreLopes02/blob/output/github-contribution-grid-snake.svg)
-
----
-
 🎯 **Objetivo**: atuar como **Desenvolvedor Back-end Jr.** contribuindo em projetos com **Java, Spring Boot, APIs REST e PostgreSQL**.  
 
 😄 **Fun fact:** Persistente, curioso e sempre buscando aprender coisas novas! 🚀
