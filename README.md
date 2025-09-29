@@ -42,9 +42,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/SeuUsuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/AlexandreLopes02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLopes02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLopes02&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 
 </div>
