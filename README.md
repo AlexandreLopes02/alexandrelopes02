@@ -37,12 +37,12 @@
 
 ## 💻 Projeto em destaque
 
-### [📂 Study Projects Java](https://github.com/AlexandreLopes02/-study-projects-java)
-Este repositório reúne exercícios e pequenos projetos criados durante meus estudos em **Java**.  
-O objetivo é consolidar conceitos de **lógica de programação, POO, controle de fluxo, estruturas de dados** e outras bases fundamentais para o desenvolvimento back-end.
+### [📂 Roadmap Java Dev](https://github.com/AlexandreLopes02/roadmap-java-dev)
+Este repositório reúne **exercícios, desafios e mini-projetos práticos** desenvolvidos durante meu roadmap de estudos em **Java**.  
+O objetivo é consolidar conceitos fundamentais de **lógica de programação, controle de fluxo, POO, exceções, coleções, bancos de dados e APIs**.
 
 🧩 **Tecnologias utilizadas:**
-- Java (JDK 17)
+- Java (JDK 17+)
 - IntelliJ IDEA
 - Git e GitHub
 
@@ -53,16 +53,10 @@ O objetivo é consolidar conceitos de **lógica de programação, POO, controle 
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 🧭 Sobre mim
 
-<div align="center">
-
-  <a href="https://github.com/AlexandreLopes02">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLopes02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLopes02&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
-  </a>
-
-</div>
+Sou apaixonado por **aprender coisas novas** e acredito que **a disciplina e a prática constante** são os pilares do crescimento profissional.  
+Busco diariamente evoluir meus conhecimentos em **Java, banco de dados e desenvolvimento de APIs**, com o objetivo de me tornar um **profissional sólido na área de tecnologia**.
 
 ---
 
