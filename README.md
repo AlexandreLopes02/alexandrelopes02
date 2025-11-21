@@ -1,69 +1,65 @@
-## 👋 Olá, eu sou o Alexandre Lopes!
+# 👋 Olá, eu sou o Alexandre Lopes
 
-🚗 Atualmente atuo como **motorista de aplicativo**, enquanto me preparo para migrar para a área de **tecnologia**.  
-💻 Estudo **Java**, **Python** e **PostgreSQL** com foco em me tornar **Desenvolvedor Back-end**.  
-📚 Estou constantemente aprendendo sobre **boas práticas, POO** e o uso de **frameworks como Spring Boot**.  
-🤝 Procuro colaborar em projetos de **back-end, APIs e bancos de dados**.  
-💬 Gosto de compartilhar sobre **organização, rotina de aprendizado** e **transição de carreira para tecnologia**.  
+Sou um desenvolvedor em formação com foco em **Back-end**, atualmente estudando **Java, C#, Spring Boot, .NET, PostgreSQL, SQL Server e Oracle**, além de boas práticas de desenvolvimento.  
+Estou em transição profissional e construindo um portfólio sólido com projetos aplicados, sempre buscando evolução contínua.
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+---
+
+## 📌 Projeto em destaque
+
+### 🗂️ **Gerenciador de Tarefas com Banco de Dados (C# + SQL)**  
+🔗 **Repositório:** [Clique aqui](https://github.com/AlexandreLopes02/gerenciador-tarefas-db)
+
+Um projeto desenvolvido para consolidar minha base em **C#, SQL, PostgreSQL**, com foco em CRUD, persistência de dados e organização de código.
+
+**Principais pontos:**
+- CRUD completo de tarefas  
+- Integração real com banco de dados  
+- Estrutura modular, limpa e intuitiva  
+- Versionamento organizado com Git/GitHub  
+
+**Próximas implementações:**
+- API REST em .NET  
+- Camadas Service/Repository  
+- Testes automatizados  
+- Padrões de arquitetura (MVC / Clean Architecture)  
+
+---
+
+## 📂 Outros projetos relevantes
+- **Roadmap Java Developer** – exercícios, desafios e mini-projetos que consolidam lógica, POO, coleções, exceções e APIs.  
+  🔗 https://github.com/AlexandreLopes02/Roadmap-Java-Dev
+
+*(Novos projetos serão adicionados conforme minha evolução.)*
+
+---
+
+## 🎯 Sobre mim  
+Sou disciplinado, organizado e estou construindo minha carreira em tecnologia com foco em desenvolvimento back-end.  
+Acredito que evolução vem da prática diária — por isso estudo, aplico, documento e busco melhorar meu código constantemente.
 
 ---
 
 ## 📫 Como me encontrar
-
-<p align="left">
-  <a href="mailto:alenovoxio@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lopesalexandre02" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+**LinkedIn:** www.linkedin.com/in/lopesalexandre02  
+**E-mail:** alenovoxio@gmail.com
 
 ---
 
-## 🚀 Tecnologias que uso e estou aprendendo
-
-<p align="left">
-  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="IntelliJ IDEA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</p>
-
----
-
-## 💻 Projeto em destaque
-
-### [📂 Roadmap Java Dev](https://github.com/AlexandreLopes02/roadmap-java-dev)
-Este repositório reúne **exercícios, desafios e mini-projetos práticos** desenvolvidos durante meu roadmap de estudos em **Java**.  
-O objetivo é consolidar conceitos fundamentais de **lógica de programação, controle de fluxo, POO, exceções, coleções, bancos de dados e APIs**.
-
-🧩 **Tecnologias utilizadas:**
-- Java (JDK 17+)
-- IntelliJ IDEA
-- Git e GitHub
-
-📈 **Próximos passos:**
-- Adicionar integração com **banco de dados (PostgreSQL)**  
-- Criar uma **API simples com Spring Boot**  
-- Aplicar **boas práticas de arquitetura e versionamento**
-
----
-
-## 🧭 Sobre mim
-
-Sou apaixonado por **aprender coisas novas** e acredito que **a disciplina e a prática constante** são os pilares do crescimento profissional.  
-Busco diariamente evoluir meus conhecimentos em **Java, banco de dados e desenvolvimento de APIs**, com o objetivo de me tornar um **profissional sólido na área de tecnologia**.
-
----
-
-## 🎯 Objetivo Profissional
-
-Meu objetivo é evoluir continuamente como **Desenvolvedor Back-end**, aplicando boas práticas de código, contribuindo em projetos reais e crescendo dentro da área de tecnologia.
-
----
-
-⭐ **“Aprender um pouco todos os dias é o caminho para se tornar excelente.”**
+⭐ *“Aprender um pouco todos os dias é o caminho para se tornar excelente.”*
