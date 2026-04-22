@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alexandre Lopes
 
-💻 Desenvolvedor Full Stack Júnior com foco em **.NET + Angular**  
+💻 Desenvolvedor Júnior com foco em **.NET + Angular**  
 📍 São Paulo - SP  
 
 ---
